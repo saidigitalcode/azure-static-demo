@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn azure cite
+          Learn azure web app
         </a>
       </header>
     </div>
